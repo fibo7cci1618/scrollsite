@@ -13,7 +13,7 @@ html {
 
 body {
   /* background: linear-gradient(rgb(52, 72, 92), rgb(57, 47, 143)); */
-  background: linear-gradient(rgb(8, 12, 16), rgb(57, 47, 143));
+  background: linear-gradient(rgb(57, 47, 143),rgb(8, 12, 16));
 }
 
 section {
